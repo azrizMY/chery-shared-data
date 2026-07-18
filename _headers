@@ -1,0 +1,7 @@
+/chery-car-data.json
+  Access-Control-Allow-Origin: *
+  Cache-Control: no-cache
+
+/images/*
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=86400
